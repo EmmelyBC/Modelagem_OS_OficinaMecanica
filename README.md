@@ -23,5 +23,8 @@ Modelagem de um sistema de controle de ordens de serviço em uma oficina mecâni
 - Serviço/OS: Relação de um ou vários serviços para uma ou mais OS
 - Peça/OS: Relação de uma ou mais peças para uma ou mais OS
 
+## 💡 Modelo Final
+![Modelo_OicinaMecânica](modelagem_OS_OficinaMecanica_ER.png)
+
 
 
